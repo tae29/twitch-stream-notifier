@@ -1,0 +1,6 @@
+{
+  "name": "twitch stream notifier",
+  "description": "Notifies you when a twitch stream has started.",
+  "version": "1.0",
+  "manifest_version": 3
+}
